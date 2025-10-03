@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://corpintech.com/favicon/android-icon-192x192.png" alt="Corpintech Banner" width="10%" />
+  <img src="https://corpintech.com/assets/images/logo.png" alt="Corpintech Banner" width="9%" />
 </p>
 
 <h1 align="center">👋 Welcome to Corpintech</h1>
